@@ -1,0 +1,109 @@
+CAR SALES ANALYSIS.
+
+ABOUT
+This Project is about Car Sales ,how different car brands are performing on the Motor Vehicles market, what different clients prefer when getting new cars ,is it colour, body style etc. What are some of the regions with the highest cars sales.
+We also comapre the Year to Date KPI's with Previous Year to Date , and the changes in the same (YoY).
+
+
+KPI's Requirement.
+(OVERVIEW DASHBOARD)
+
+1.TOTAL SALES
+    ~YTD Total sales - Calculate sum of the sales from the beginning of the Year to the current date.
+    ~YoY change in Sales - Calculate the change in Total Sales compared to the Same Period Last Year (PYTD)
+   ~MTD Total Sales - Calculate the Total Sales for the current month.
+   ~MoM Change in Sales - Calculate the % Change in Sales , Current month compared to Previous Month.
+
+
+2.AVERAGE PRICING.
+   ~YTD Average Price - Calculate the Average price from  the beginning of the Current Year to the Current Date.
+   ~YoY Change in Avg Price - Calculate the % change in currents Year's Average Price compared to same period last year.
+   ~MTD Avg Price - Calculate the Average price for the Current month.
+   ~MoM change in Avg Price - Calculate the % change in Average price of the current month compared to the Previous Month.
+
+3.QUANTITIES SOLD.
+   ~YTD Quantities sold - Calculate the total quantities from  the beginning of the Current Year to the Current Date.
+   ~YoY Change in quantities sold - Calculate the % change in current's Year Quantity sold compared to same period last year.
+   ~MTD quantities sold - Calculate the Quantity sold for the Current month.
+   ~MoM change in Quantities Sold - Calculate the % change in Quantity sold  on the current month compared to the Previous Month.
+
+CHART'S Requirement
+
+1.YTD Weekly Sales Trend:
+   -Visualization: Area Chart
+   -Description: This chart will display the trend of total sales over the weeks of the year.
+   -Implementation: An Area chart with the week number on the x-axis and total sales on the y-axis. 
+   -Mark the point with the Highest Sale on the Chart.
+
+2.YTD Sales by Region:
+   -Visualization: Map
+   -Description: This map will show the total sales for each region.
+   -Implementation: Use a map visual and plot the total sales data for each region.
+
+
+3.YTD Total Sales by Body Style:
+   -Visualization: Donut Chart
+   -Description: This chart will display the distribution of total sales by different body styles of Cars.
+   -Implementation: Create a donut chart with the body style category as the legend and the total sales as the values. Each segment of the donut chart represents a body style category, and the size of the segment corresponds to its share of total sales.
+
+4.YTD Total Sales by Color:
+   -Visualization: Donut Chart
+   -Description: Similar to the body style chart, this chart will display the distribution of total sales by different colors of cars.
+   -Implementation: Create another donut chart with the color category as the legend and the total sales as the values. Each segment represents a color category, and the size of the segment reflects its share of total sales.
+
+5.Company Wise Sales Trend:
+   -Visualization: Table
+   -Description: This table will provide a detailed breakdown of sales trend for each company, displaying key metrics such as total sales, YoY change, and MoM change. Each row represents a company, and the columns show various metrics to analyze their sales performance over time.
+   -Implementation:
+a.Rows: Company names 
+b.Columns: 
+   -YTD Total Sales
+   -YTD Avg Price  
+   -YTD Cars Sold 
+   -YoY Change in Sales
+
+
+DETAILS DASHBOARD
+
+With the Details Dashboard, its simple, will display the Car id, Date bought, Customer Name, Dealer Name, Company, Color, Model and Total Sales.
+
+
+
+INSIGHTS & RECOMMENDATION.
+
+INSIGHTS.
+
+~The YTD Total Sales Revenue is $371.2 M, an icrease by $70.8
+ from PYTD Total Sales.
+~The MTD Sales are $ 54.28M a 23.6% increase  from PMTD.
+~YTD Avg Car Price is is 28k, registering a decrease of $220 compared to PYTD Average Price.
+~MTD Average price is $28.26k a decrease as well compared to PMTD Avg Price.
+~YTS Average Cars Sold are 13.3K an icrease from PYTD cars sold (11K)
+~MTD Cars Sold are 1921 a 19.73% increase from Cars sold Previous Month.
+~Week 36 had the Highest Sales on the YTD ,Week 3 registering the lowest sales that Year.
+~In Car Body Style Category, SUV's sold the most having $99.9M in Sales, the least being Hardtop $63.4M in Sales.
+~Pale white colour in cars brought a huge sales in the 3 colours customers had to choose from.
+~In Region, Austin brought in the largest Sales, Middle dragging the tail in sales.
+~Company Wise SALES, Chevrolet had the highest number of YTD Sales, Jaguar having the lowest number of Sales.
+
+Based on the insights Above here are some RECOMMENDATIONS:
+
+1.Focus on High-Performing Weeks: Since Week 36 had the highest sales, consider analyzing the factors contributing to its success and replicate those strategies in other weeks to maintain consistent sales performance.
+
+2.Optimize Pricing Strategy: With a decrease in average car prices, evaluate pricing strategies to ensure competitiveness in the market while maintaining profitability. Consider offering incentives or promotions to attract customers without compromising on revenue.
+
+3.Promote Best-Selling Car Styles: Given that SUVs are the top-selling car body style, allocate more resources to market and promote these models. Consider expanding the SUV product line or introducing new features to meet customer demand.
+
+4.Leverage Popular Car Colors: Since pale white cars are driving significant sales, consider offering more vehicles in this color.
+
+5.Regional Sales Focus: Given that Austin is the top-performing region, allocate more marketing and sales efforts to capitalize on this market. Conduct market research to understand consumer preferences and tailor offerings to meet local demand.
+
+6.Enhance Brand Performance: While Chevrolet leads in YTD sales, explore opportunities to strengthen brand presence and customer loyalty. Invest in marketing campaigns, customer service improvements, and product innovation to maintain market leadership.
+
+7.Monitor Monthly Sales Trends: With a notable increase in MTD sales, continue to monitor monthly sales trends closely and adapt strategies accordingly. Identify factors driving sales growth and leverage them to sustain momentum.
+
+8.Customer Engagement and Experience: Focus on enhancing the overall customer experience to drive repeat business and positive word-of-mouth referrals. Offer personalized services, streamline purchasing processes, and provide excellent customer support to foster loyalty and satisfaction.
+
+END!
+
+
